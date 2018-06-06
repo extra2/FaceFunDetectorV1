@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FaceFunDetector", "FaceFunDetector\FaceFunDetector.pyproj", "{F1E43C3E-9F2E-4C2D-B220-F5C718B5F013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E43C3E-9F2E-4C2D-B220-F5C718B5F013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E43C3E-9F2E-4C2D-B220-F5C718B5F013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97CA7AC6-5A01-429F-AA06-E8BCD3D79E44}
+	EndGlobalSection
+EndGlobal
